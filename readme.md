@@ -86,5 +86,5 @@
   <li>Github:   <a href= "https://github.com/Mahesh3612/" >Mahesh3612</a> </li>
  
   <li>Email:maheshwankhade3612@gmail.com </li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/mahesh-wankhade-5733141a8/"> </a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/mahesh-wankhade-5733141a8/">LInkdin</a></li>
 </ul>
