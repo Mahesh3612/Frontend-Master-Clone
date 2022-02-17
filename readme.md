@@ -83,8 +83,8 @@
 
 <h3>Mahesh</h3>
 <ul>
-  <li>Github: </li>
-  <li>Github Link: <a href= "" ></a></li>
-  <li>Email: </li>
-  <li>LinkedIn: <a href=""> </a></li>
+  <li>Github:   <a href= "https://github.com/Mahesh3612/" >Mahesh3612</a> </li>
+ 
+  <li>Email:maheshwankhade3612@gmail.com </li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/mahesh-wankhade-5733141a8/"> </a></li>
 </ul>
